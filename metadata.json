@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Audio Conversation",
+  "description": "Have a real-time voice conversation with the Gemini 2.5 Native Audio API. The app transcribes the conversation and plays back the AI's audio response.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
